@@ -1,2 +1,1 @@
-jenkins/jenkins:2.452.2-lts
-
+alpine:3.18
